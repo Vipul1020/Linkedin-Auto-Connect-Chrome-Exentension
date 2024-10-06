@@ -12,6 +12,7 @@ This Chrome extension helps you streamline your LinkedIn networking by automatic
 - Timeout Between Clicks: Prevents excessive requests by introducing a customizable delay between connection requests (default is 2 seconds).
 - Error Handling: Safely handles scenarios where buttons may become unavailable or disabled.
 - User-friendly Interface: A clean, simple button interface with easy accessibility on the page.
+
 🛠️ Technologies Used
 -- 
 - JavaScript (ES6+): Core functionality and logic.
@@ -19,10 +20,10 @@ This Chrome extension helps you streamline your LinkedIn networking by automatic
 - MutationObserver API: For dynamically observing and responding to changes in the LinkedIn DOM (e.g., detecting newly loaded profiles as you scroll).
 - Chrome Extensions API: To create the Chrome extension and inject the functionality into LinkedIn's web pages.
 - HTML/CSS: For the front-end rendering of the extension's interface.
+
 📦 Installation
 --
 - Clone the repository or download the ZIP file.
-
 - bash
 - Copy code :
 git clone https://github.com/Vipul1020/Linkedin-Connect-All-Chrome-Extension.git
